@@ -10,6 +10,8 @@ header{
 }
 nav{background-color: rgba(156, 154, 154, 0.644);
     padding: 5px;
+    box-shadow: -3px 0px 8px black;
+    
     
 }
 nav > a{
@@ -17,6 +19,7 @@ nav > a{
     color:aliceblue;
     font-weight: bold;
     margin-right: 20px;
+
 }
 nav > a:hover{
     text-decoration: underline;
@@ -38,6 +41,9 @@ footer{
     background-color: black;
     color: bisque;
     text-align: center;
-    padding: 1px;
+    padding: 4px;
     margin: 0px;
+}
+footer > p {
+    margin:0px;
 }
