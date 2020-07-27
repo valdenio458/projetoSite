@@ -47,4 +47,5 @@ footer{
 }
 footer > p {
     margin:0px;
+    font-style: italic;
 }
